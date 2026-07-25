@@ -41,7 +41,7 @@ This repository contains a structured analytical workflow designed to inspect, c
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/fifa19-eda-project.git](https://github.com/yourusername/fifa19-eda-project.git)
+   git clone [https://github.com/ParantapGuha-2005/SkillOrbit_MinorProject1_Fifa19_EDA.git](https://github.com/ParantapGuha-2005/SkillOrbit_MinorProject1_Fifa19_EDA.git)
    ```
 2. Install the required dependencies:
    ```bash
